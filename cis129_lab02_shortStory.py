@@ -1,1 +1,5 @@
-print('Hello, World!')
+print('Author: Roco Bellavia')
+print('Hello, Class!')
+print('Today, I will be working on my github.')
+print('I think, that's all I have to do.')
+print('I really look forward to learning more code.')
