@@ -36,5 +36,6 @@ print("Tax: $" + str(tax))
 print("--------------------------------")
 print("Total: $" + str(total))
 print("********************************")
+print('Thank You for choosing SweetJava hope to see you again!')
 
 
